@@ -121,7 +121,7 @@ export default function Display({ data, currentSort }: { data: Article[], curren
       <div>
         {data.length ? (
           data.map((article) => (
-            <Row article={article} />
+            <Row key={article.id} article={article} />
           ))
         ) : (
           <div>
