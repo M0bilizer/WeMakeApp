@@ -29,3 +29,7 @@ Then you can access http://localhost:3000
 
 ![App Screenshot](/screenshot/website.png)
 
+## Others
+
+Vercel Link: https://we-make-app-git-master-rakis-projects-978fffd6.vercel.app/
+
